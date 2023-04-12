@@ -1,7 +1,7 @@
 Locales['de'] = {
 	['male'] = "Männlich",
 	['female'] = "Weiblich",
-	['delete_label'] = "Lösche %s %s?",
+	['delete_label'] = "Charakter %s %s Löschen?",
 	['select_char'] = "Charakter auswählen",
 	['create_char'] = "Neuen Charakter erstellen",
 	['char_play'] = "Diesen Charakter auswählen",
