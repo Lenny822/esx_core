@@ -5,8 +5,8 @@ Locales['de'] = {
   ['delete_character'] = 'Lösche deinen Charackter und erstelle einen neuen',
   ['deleted_character'] = 'Dein Charakter wurde gelöscht.',
   ['error_delete_character'] = "Wir konnten deinen Charakter nicht löschen. Bitte kontaktiere einen Admin.",
-  ['thank_you_for_registering'] = "Danke fürs Registrieren. Viel Spaß.",
-  ['registration_error'] = "Es gab einen Fehler während der Registration. Bitte kontaktiere einen Admin.",
+  ['thank_you_for_registering'] = "Charakter erstellt! Viel Spaß!",
+  ['registration_error'] = "Es gab einen Fehler während der erstellung deines Charakters. Bitte kontaktiere einen Admin.",
   ['debug_xPlayer_get_first_name'] = "Gibt deinen Vornamen zurück",
   ['debug_xPlayer_get_last_name'] = "Gibt deinen Nachnamen zurück",
   ['debug_xPlayer_get_full_name'] = "Gibt deinen vollen Namen zurück",
@@ -19,7 +19,7 @@ Locales['de'] = {
   ['error_debug_xPlayer_get_sex'] = "Ein Fehler entstand dabei, dein Geschlecht auszulesen.",
   ['error_debug_xPlayer_get_dob'] = "Ein Fehler entstand dabei, dein Geburtsdatum auszulesen.",
   ['error_debug_xPlayer_get_height'] = "Ein Fehler entstand dabei, deine Größe auszulesen.",
-  ['return_debug_xPlayer_get_first_name'] = "Vornmame: %s",
+  ['return_debug_xPlayer_get_first_name'] = "Vorname: %s",
   ['return_debug_xPlayer_get_last_name'] = "Nachname: %s",
   ['return_debug_xPlayer_get_full_name'] = "Voller Name: %s",
   ['return_debug_xPlayer_get_sex'] = "Geschlecht: %s",
@@ -36,4 +36,3 @@ Locales['de'] = {
   ['invalid_sex_format'] = 'Ungültiges Format (Geschlecht): Bitte überprüfe deine Eingabe',
   ['invalid_height_format'] = 'Ungültiges Format (Größe): Bitte überprüfe deine Eingabe.'
 }
-
